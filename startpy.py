@@ -71,7 +71,8 @@ st.video("https://www.youtube.com/watch?v=Qx8EEteoDdI", autoplay = False)
 #Adds a sound audio section on the website playing the sound from link (In this case a random alarm sound from soundcloud)
 #At the moment IT DOESNT WORK so its commented out. Figure out later
 
-st.image("cat_stock.webp"
-         , caption="Cat"
-         , width="stretch")
+#st.image("cat_stock.webp"
+#         , caption="Cat"
+#         , width="stretch")
 #Adds an image section of the website with the image showing from the image through the relpath
+#At the moment, commented out cause the images arent uploaded
